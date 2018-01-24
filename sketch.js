@@ -19,5 +19,5 @@ function draw(){
     greenSavage = moneySlider.value();
     blueKiller = bakerSlider.value();
     
-    background(0,0,0);
+    background(redRuby,greenSavage,blueKiller);
 }
